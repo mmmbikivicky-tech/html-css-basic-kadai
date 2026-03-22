@@ -1,0 +1,19 @@
+/* 以下はフォントの種類を指定しています */
+html {
+     font-size: 20px;
+    text-align: center;}
+/* 以下はフォントサイズを指定しています */
+body {    
+  font-family: "Arial", "Meiryo", sans-serif;}
+/* 以下はフォントカラーで色を指定しています */
+  .blue {color: skyblue;}
+  .pink { color: rgb(255,192,203)}
+h1 {
+    font-family: Josefin Sans", san-serif;
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 3px 3px 5px gray;
+    border-bottom: solid 3px rgb(115,115,114);} 
+#basic p { 
+    font-weight: bold;
+}
